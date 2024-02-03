@@ -1,24 +1,88 @@
-<h1 align="center">Hi 👋, I'm Clyde Mondero</h1>
-<h3 align="center">A aspiring FullStack Web Dev</h3>
+<div align="center">
+  <img height="200" src="https://avatars.githubusercontent.com/u/92561235?v=4"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clydemondero&label=Profile%20views&color=0e75b6&style=flat" alt="clydemondero" /> </p>
+###
 
-- 🔭 I’m currently working on [task management system](https://github.com/ClydeMondero/task-management-app)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
-- 🌱 I’m currently learning **jQuery, ajax, and Bootstrap**
+###
 
-- 📫 How to reach me **clydereinyelmondero0324@gmail.com**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ClydeMondero.ClydeMondero&"  />
+</div>
 
-- ⚡ Fun fact **I use vim btw.**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/clyde mondero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="clyde mondero" height="30" width="40" /></a>
-</p>
+<h1 align="center">Hi, I'm Clyde 👋</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clydemondero&show_icons=true&locale=en&layout=compact" alt="clydemondero" /></p>
+<h3 align="left">👨‍💻  About Me</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clydemondero&" alt="clydemondero" /></p>
+###
+
+<p align="left">I'm currently a 3rd year BSIT student at the Bulacan State University. Everyday I try to write code to improve. As of now I'm learning how to use frameworks in order to improve my workflow and overall quality of my projects. I like to create side projects in web/app development.<br><br>- 🔭 I’m working on a [task management application](https://github.com/ClydeMondero/task-management-app)<br>- 📚 I'm currently learning jQuery, and Bootstrap<br>- ⚡ I use vim btw.</p>
+
+###
+
+<h3 align="left">🛠 Language and Tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ClydeMondero&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ClydeMondero/ClydeMondero/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <p>Made in <a href="https://profile-readme-generator.com">Profile Readme Generator</a></p>
+</div>
