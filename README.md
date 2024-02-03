@@ -1,12 +1,16 @@
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/92561235?v=4"  />
-</div>
+###
+
+<h1 align="center">Hi, I'm Clyde 👋</h1>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.facebook.com/clydemondero24">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnZfTcGkXQbJDSvsZjRwlVgTdTTmZZmsDxZhxvHZDvntWlNpFhrJslKnrRlwFQztWpfzZl">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -14,10 +18,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ClydeMondero.ClydeMondero&"  />
 </div>
-
-###
-
-<h1 align="center">Hi, I'm Clyde 👋</h1>
 
 ###
 
@@ -79,7 +79,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ClydeMondero/ClydeMondero/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ClydeMondero/ClydeMondero/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
