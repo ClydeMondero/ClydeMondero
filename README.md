@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm currently a 3rd year BSIT student at the Bulacan State University. Everyday I try to write code to improve. As of now I'm learning how to use frameworks in order to improve my workflow and overall quality of my projects. I like to create side projects in web/app development.<br><br>- 🔭 I’m working on a [task management application](https://github.com/ClydeMondero/task-management-app)<br>- 📚 I'm currently learning jQuery, and Bootstrap<br>- ⚡ I use vim btw.</p>
+<p align="left">I'm currently a 3rd year BSIT student at the Bulacan State University. Everyday I try to write code to improve. As of now I'm learning how to use frameworks in order to improve my workflow and overall quality of my projects. I like to create side projects in web/app development.<br><br>- 🔭 I’m working on a <a href="https://github.com/ClydeMondero/task-management-app">task management app</a><br>- 📚 I'm currently learning jQuery, and Bootstrap<br>- ⚡ I use vim btw.</p>
 
 ###
 
