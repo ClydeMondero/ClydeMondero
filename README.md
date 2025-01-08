@@ -8,7 +8,7 @@
   <a href="https://www.facebook.com/clydemondero24">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnZfTcGkXQbJDSvsZjRwlVgTdTTmZZmsDxZhxvHZDvntWlNpFhrJslKnrRlwFQztWpfzZl">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=clydereinyel.mondero.c@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm currently a 3rd year BSIT student at the Bulacan State University. Everyday I try to write code to improve. As of now I'm learning how to use frameworks in order to improve my workflow and overall quality of my projects. I like to create side projects in web/app development.<br><br>- 🔭 I’m working on a <a href="https://github.com/ClydeMondero/task-management-app">task management app</a><br>- 📚 I'm currently learning jQuery, and Bootstrap<br>- ⚡ I use vim btw.</p>
+<p align="left">I'm currently a 4th year BSIT student at the Bulacan State University. Everyday I try to write code to improve. As of now I'm learning how to use frameworks in order to improve my workflow and overall quality of my projects. I like to create side projects in web/app development.<br><br>- 📚 I'm currently learning Laravel<br>- ⚡ I use vim btw.</p>
 
 ###
 
@@ -43,10 +43,28 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+ <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
 </div>
 
