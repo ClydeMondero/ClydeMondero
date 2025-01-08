@@ -70,16 +70,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ClydeMondero/ClydeMondero/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-<div align="left">
-  <p>Made in <a href="https://profile-readme-generator.com">Profile Readme Generator</a></p>
-</div>
