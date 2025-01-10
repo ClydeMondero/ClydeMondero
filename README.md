@@ -44,10 +44,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-<img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
