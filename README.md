@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm currently a 4th year BSIT student at Bulacan State University. Everyday I try to write code to improve. As of now I'm learning how to use frameworks in order to improve my workflow and overall quality of my projects. I like to create side projects in web/app development. I also take freelance projects when I have time. <br><br>- 📚 I'm currently learning Jest, OAuth, and SEO<br>- ⚡ I use vim btw.</p>
+<p align="left">I'm Fullstack Developer, a Graphic Designer on the side, an aspiring Project Manager soon! Everyday I try to write code to improve. As of now I'm taking courses and reading articles in order to improve my workflow and overall quality of my projects. I like to create side projects in web/app development. I also take freelance projects when I have time. <br><br>- 📚 I'm currently learning Test Driven DevelopmentO<br>- ⚡ I use vim btw.</p>
 
 ###
 
